@@ -1,2 +1,2 @@
 # Notes-app
-Created with CodeSandbox
+Created a To-Do list app using React
